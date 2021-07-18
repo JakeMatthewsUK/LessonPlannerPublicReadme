@@ -27,7 +27,6 @@ Users have the option to share their lesson plans with other users, creating a b
 <img src="./timetable.png" max-width="80%" width="1000" height="auto" margin="auto" />
 
 #### Lesson Index:
-![](./images/lessonsIndex.png)
 
 <img src="./lessonsIndex.png" width="740" height="auto" />
 
