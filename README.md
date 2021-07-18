@@ -24,23 +24,24 @@ Users have the option to share their lesson plans with other users, creating a b
 
 #### Home (timetable) page:
 
-<img src="./images/timetable.png" max-width="80%" width="1000" margin="auto" />
+<img src="./images/timetable.png" max-width="80%" width="1000" height="auto" margin="auto" />
 
 #### Lesson Index:
+![](./images/lessonsIndex.png)
 
-<img src="./images/lessonsIndex.png" width="740"/>
+<img src="./images/lessonsIndex.png" width="740" height="auto" />
 
 #### Lesson Editor:
 
-<img src="./images/lessonsEdit.png" width="740"/>
+<img src="./images/lessonsEdit.png" width="740" height="auto" />
 
 #### Database Lesson Search:
 
-<img src="./images/lessonSearch.png" width="740"/>
+<img src="./images/lessonSearch.png" width="740" height="auto" />
 
 #### Finance Charts:
 
-<img src="./images/pieCharts.png" width="740"/>
+<img src="./images/pieCharts.png" width="740" height="auto" />
 
 ## Technologies Used
 
